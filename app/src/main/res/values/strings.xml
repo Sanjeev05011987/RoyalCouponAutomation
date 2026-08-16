@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Royal Coupon Automation</string>
+    <string name="accessibility_description">Automates the visible coupon-entry workflow after the user starts it.</string>
+</resources>
